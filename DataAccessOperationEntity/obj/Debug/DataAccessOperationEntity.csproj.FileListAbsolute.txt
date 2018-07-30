@@ -1,0 +1,11 @@
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\DataAccessOperationEntity.dll.config
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\DataAccessOperationEntity.dll
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\DataAccessOperationEntity.pdb
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\ClassLibrary2.dll
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\EntityFramework.dll
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\ClassLibrary2.pdb
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\bin\Debug\EntityFramework.xml
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\obj\Debug\DataAccessOperationEntity.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\obj\Debug\DataAccessOperationEntity.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\obj\Debug\DataAccessOperationEntity.dll
+C:\Users\skapoor\source\repos\BankingSystem-master\DataAccessOperationEntity\obj\Debug\DataAccessOperationEntity.pdb

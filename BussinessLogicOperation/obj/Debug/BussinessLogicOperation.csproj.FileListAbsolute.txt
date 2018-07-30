@@ -1,0 +1,8 @@
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\bin\Debug\BussinessLogicOperation.dll
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\bin\Debug\BussinessLogicOperation.pdb
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\bin\Debug\ClassLibrary1.dll
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\bin\Debug\ClassLibrary1.pdb
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\obj\Debug\BussinessLogicOperation.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\obj\Debug\BussinessLogicOperation.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\obj\Debug\BussinessLogicOperation.dll
+C:\Users\skapoor\source\repos\ConsoleApp10\BussinessLogicOperation\obj\Debug\BussinessLogicOperation.pdb
